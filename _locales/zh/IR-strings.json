@@ -1,0 +1,6 @@
+{
+  "IR_RemoteRx.connectIrReceiver|block": "初始化IR接收端口%pin",
+  "IR_RemoteRx.onIrButton|block": "当遥控器按键%button | %action",
+  "IR_RemoteRx.IrButtonAction.pressed|block": "被按下",
+  "IR_RemoteRx.IrButtonAction.released|block": "被松开",
+}
